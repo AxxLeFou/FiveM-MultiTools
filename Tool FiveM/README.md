@@ -6,7 +6,7 @@ Discord : axel.gbn#0001
 
 **What's the purpose of this?**
 
-Program blocks the outbounding and inbounding calls from adhesive so they won't get to check your hwid from their auth server. Basically allows you to play FiveM on hwid banned computers.
+This program can enable you to: Delete your FiveM cache, clear your ban traces and log out, launch Fivem, launch RedEngine or then Desudo very quickly only by pressing keys.
 
 **How to use:**
 1. Delete FiveM cache
@@ -18,6 +18,6 @@ Program blocks the outbounding and inbounding calls from adhesive so they won't 
 
 **Current status**
 
-Working
+Working 0.2
 
 
